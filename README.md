@@ -2,16 +2,11 @@
 
 ユーザー投票と口コミで、施設・作品・スポットをジャンル別にランキング化するUGC対応サービスです。
 
+Canonical domain: https://rankvote.jp/
+
 ## Repository Name
 
 ranking-vote-hub
-
-## Domain Candidates
-
-- rankvote.jp
-- minrank.jp
-- votehub.jp
-- oshirank.jp
 
 ## Features
 
