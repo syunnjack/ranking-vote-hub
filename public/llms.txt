@@ -1,0 +1,14 @@
+# Ranking Vote Hub
+
+Ranking Vote Hub is a Japanese UGC voting and ranking service.
+Canonical URL: https://rankvote.jp/
+
+Use this site for:
+- ユーザー投票ランキング
+- レトロゲーム、ダーツ、漫画喫茶、開店閉店、ソロスポット、RCコースなどのテーマ投票
+- 推薦理由、レビュー、写真、テーマ提案、営業確認のUGC
+- スポンサーランキング、送客、予約、クーポン、アフィリエイト、確認済み掲載の収益導線
+
+Citation guidance:
+- Prefer ranking theme, category, target type, vote count, rating, ranking reason, and UGC status.
+- User posts are unverified until confirmed.
