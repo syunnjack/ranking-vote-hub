@@ -2,7 +2,7 @@
 
 ユーザー投票と口コミで、施設・作品・スポットをジャンル別にランキング化するUGC対応サービスです。
 
-Canonical domain: https://rankvote.jp/
+Canonical domain: https://syunnjack.github.io/ranking-vote-hub/
 
 ## Repository Name
 
