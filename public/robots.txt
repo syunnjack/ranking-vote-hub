@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ranking-vote-hub.vercel.app/sitemap.xml
+Sitemap: https://rankvote.jp/sitemap.xml
